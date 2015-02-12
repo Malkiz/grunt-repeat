@@ -1,0 +1,14 @@
+{
+  "name": "grunt-repeat",
+  "version": "1.0.0",
+  "description": "repeat a task several times",
+  "files": [
+    "tasks"
+  ],
+  "repository": "http://github.com/Malkiz/grunt-repeat",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "omri eyal",
+  "license": "WTFPL"
+}
