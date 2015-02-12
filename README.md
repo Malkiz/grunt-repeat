@@ -2,7 +2,7 @@
 repeat a task several times
 
 ## Installation
-`npm install git://github.com/Malkiz/grunt-repeat`
+`npm install git://github.com/Malkiz/grunt-repeat --save-dev`
 
 ## Config
 ```javascript
